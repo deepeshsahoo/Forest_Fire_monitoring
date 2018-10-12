@@ -12,7 +12,7 @@ Overview:
 Data:
 
 	The real-time data will help in the following ways:
-1. Finding the intensity of the forest fire at specific regions. The intensity of the fire holds utmost priority to stop the forest   fire. Cutting of the fire at high intensity regions is likely to reduce the time taken to dose the fire off completely. This also reduces the burden as to which place to start with at dosing out the flames
+1. Finding the intensity of the forest fire at specific regions. Cutting of the fire at high intensity regions is likely to reduce the time taken to dose the fire off completely. This also reduces the burden as to which place to start with at dosing out the flames
 2. Using the temperature and humidity at nearby locations, find regions where the fire may spread first. This helps in limiting the fire from spreading to nearby regions, hence restricting the fire to a given region, allowing the situation to be dealt with more ease.
 3. Over time, analysing the start of forest fires with the existing data can help in preventing  a fire before it actually starts. As we collect more data, it is possible to run learning algorithms with the current data sets to predict the start of forest fires.
 4. Based on the rate of fire, villages/residents in the possible range of extent of the fire can be imformed on a prior basis.
